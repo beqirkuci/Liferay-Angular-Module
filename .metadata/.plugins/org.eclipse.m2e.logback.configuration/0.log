@@ -1,0 +1,415 @@
+2019-12-19 11:36:40,409 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-12-19 11:55:24,250 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/biz/aQute/bnd/bnd-maven-plugin/4.3.0/bnd-maven-plugin-4.3.0.pom
+2019-12-19 11:55:24,303 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/biz/aQute/bnd/bnd-maven-plugin/4.3.0/bnd-maven-plugin-4.3.0.pom
+2019-12-19 11:55:24,353 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/biz/aQute/bnd/bnd-maven-plugin/4.3.0/bnd-maven-plugin-4.3.0.jar
+2019-12-19 11:55:24,458 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/biz/aQute/bnd/bnd-maven-plugin/4.3.0/bnd-maven-plugin-4.3.0.jar
+2019-12-19 11:55:24,659 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/eirslett/frontend-maven-plugin/1.6/frontend-maven-plugin-1.6.jar
+2019-12-19 11:55:24,803 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/eirslett/frontend-maven-plugin/1.6/frontend-maven-plugin-1.6.jar
+2019-12-19 11:55:24,950 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/liferay/com.liferay.css.builder/3.0.2/com.liferay.css.builder-3.0.2.jar
+2019-12-19 11:55:26,279 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/liferay/com.liferay.css.builder/3.0.2/com.liferay.css.builder-3.0.2.jar
+2019-12-19 11:55:26,580 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.1.2/maven-jar-plugin-3.1.2.jar
+2019-12-19 11:55:26,663 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.1.2/maven-jar-plugin-3.1.2.jar
+2019-12-19 11:55:28,438 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.liferay:my-npm-angular-portlet:1.0 @ C:\Liferay\Liferay-maven-portlet\my-npm-angular-portlet\pom.xml.
+2019-12-19 11:55:28,654 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/liferay/com.liferay.frontend.js.loader.modules.extender.api/1.0.2/com.liferay.frontend.js.loader.modules.extender.api-1.0.2.pom
+2019-12-19 11:55:28,710 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/liferay/com.liferay.frontend.js.loader.modules.extender.api/1.0.2/com.liferay.frontend.js.loader.modules.extender.api-1.0.2.pom
+2019-12-19 11:55:28,765 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/liferay/portal/com.liferay.portal.kernel/2.0.0/com.liferay.portal.kernel-2.0.0.pom
+2019-12-19 11:55:28,817 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/liferay/portal/com.liferay.portal.kernel/2.0.0/com.liferay.portal.kernel-2.0.0.pom
+2019-12-19 11:55:28,872 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/liferay/portal/com.liferay.util.taglib/2.0.0/com.liferay.util.taglib-2.0.0.pom
+2019-12-19 11:55:28,924 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/liferay/portal/com.liferay.util.taglib/2.0.0/com.liferay.util.taglib-2.0.0.pom
+2019-12-19 11:55:28,983 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1.pom
+2019-12-19 11:55:29,037 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1.pom
+2019-12-19 11:55:29,097 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jstl/jstl/1.2/jstl-1.2.pom
+2019-12-19 11:55:29,148 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jstl/jstl/1.2/jstl-1.2.pom
+2019-12-19 11:55:29,201 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/osgi/osgi.cmpn/6.0.0/osgi.cmpn-6.0.0.pom
+2019-12-19 11:55:29,253 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/osgi/osgi.cmpn/6.0.0/osgi.cmpn-6.0.0.pom
+2019-12-19 11:55:29,309 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/liferay/com.liferay.frontend.js.loader.modules.extender.api/1.0.2/com.liferay.frontend.js.loader.modules.extender.api-1.0.2.jar
+2019-12-19 11:55:29,426 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/liferay/com.liferay.frontend.js.loader.modules.extender.api/1.0.2/com.liferay.frontend.js.loader.modules.extender.api-1.0.2.jar
+2019-12-19 11:55:29,469 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/liferay/portal/com.liferay.portal.kernel/2.0.0/com.liferay.portal.kernel-2.0.0.jar
+2019-12-19 11:55:31,726 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/liferay/portal/com.liferay.portal.kernel/2.0.0/com.liferay.portal.kernel-2.0.0.jar
+2019-12-19 11:55:31,773 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/liferay/portal/com.liferay.util.taglib/2.0.0/com.liferay.util.taglib-2.0.0.jar
+2019-12-19 11:55:32,051 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/liferay/portal/com.liferay.util.taglib/2.0.0/com.liferay.util.taglib-2.0.0.jar
+2019-12-19 11:55:32,099 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1.jar
+2019-12-19 11:55:32,156 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1.jar
+2019-12-19 11:55:32,202 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jstl/jstl/1.2/jstl-1.2.jar
+2019-12-19 11:55:32,348 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jstl/jstl/1.2/jstl-1.2.jar
+2019-12-19 11:55:32,414 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/osgi/osgi.cmpn/6.0.0/osgi.cmpn-6.0.0.jar
+2019-12-19 11:55:32,821 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/osgi/osgi.cmpn/6.0.0/osgi.cmpn-6.0.0.jar
+2019-12-19 11:55:33,478 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/eirslett/frontend-maven-plugin/1.6/frontend-maven-plugin-1.6.pom
+2019-12-19 11:55:33,531 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/eirslett/frontend-maven-plugin/1.6/frontend-maven-plugin-1.6.pom
+2019-12-19 11:55:33,583 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/eirslett/frontend-plugins/1.6/frontend-plugins-1.6.pom
+2019-12-19 11:55:33,639 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/eirslett/frontend-plugins/1.6/frontend-plugins-1.6.pom
+2019-12-19 11:55:33,716 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/liferay/com.liferay.css.builder/3.0.2/com.liferay.css.builder-3.0.2.pom
+2019-12-19 11:55:33,771 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/liferay/com.liferay.css.builder/3.0.2/com.liferay.css.builder-3.0.2.pom
+2019-12-19 11:55:33,857 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.1.2/maven-jar-plugin-3.1.2.pom
+2019-12-19 11:55:33,909 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.1.2/maven-jar-plugin-3.1.2.pom
+2019-12-19 11:55:34,073 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/file-management/3.0.0/file-management-3.0.0.pom
+2019-12-19 11:55:34,126 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/file-management/3.0.0/file-management-3.0.0.pom
+2019-12-19 11:55:34,181 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/22/maven-shared-components-22.pom
+2019-12-19 11:55:34,236 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/22/maven-shared-components-22.pom
+2019-12-19 11:55:34,293 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-io/3.0.0/maven-shared-io-3.0.0.pom
+2019-12-19 11:55:34,348 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-io/3.0.0/maven-shared-io-3.0.0.pom
+2019-12-19 11:55:34,447 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.10/wagon-provider-api-2.10.pom
+2019-12-19 11:55:34,499 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.10/wagon-provider-api-2.10.pom
+2019-12-19 11:55:34,553 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon/2.10/wagon-2.10.pom
+2019-12-19 11:55:34,667 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon/2.10/wagon-2.10.pom
+2019-12-19 11:55:34,868 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.4.0/maven-archiver-3.4.0.pom
+2019-12-19 11:55:34,921 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.4.0/maven-archiver-3.4.0.pom
+2019-12-19 11:55:35,019 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.1.0/plexus-archiver-4.1.0.pom
+2019-12-19 11:55:35,072 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.1.0/plexus-archiver-4.1.0.pom
+2019-12-19 11:55:35,128 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.1.1/plexus-utils-3.1.1.pom
+2019-12-19 11:55:35,182 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.1.1/plexus-utils-3.1.1.pom
+2019-12-19 11:55:35,236 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.1.1/plexus-io-3.1.1.pom
+2019-12-19 11:55:35,288 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.1.1/plexus-io-3.1.1.pom
+2019-12-19 11:55:35,358 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.6/commons-io-2.6.pom
+2019-12-19 11:55:35,416 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.6/commons-io-2.6.pom
+2019-12-19 11:55:35,481 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.18/commons-compress-1.18.pom
+2019-12-19 11:55:35,538 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.18/commons-compress-1.18.pom
+2019-12-19 11:55:35,628 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/tukaani/xz/1.8/xz-1.8.pom
+2019-12-19 11:55:35,681 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/tukaani/xz/1.8/xz-1.8.pom
+2019-12-19 11:55:35,736 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.25/plexus-interpolation-1.25.pom
+2019-12-19 11:55:35,835 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.25/plexus-interpolation-1.25.pom
+2019-12-19 11:55:35,917 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/file-management/3.0.0/file-management-3.0.0.jar
+2019-12-19 11:55:36,059 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/file-management/3.0.0/file-management-3.0.0.jar
+2019-12-19 11:55:36,121 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-io/3.0.0/maven-shared-io-3.0.0.jar
+2019-12-19 11:55:36,302 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-io/3.0.0/maven-shared-io-3.0.0.jar
+2019-12-19 11:55:36,347 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.10/wagon-provider-api-2.10.jar
+2019-12-19 11:55:36,441 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.10/wagon-provider-api-2.10.jar
+2019-12-19 11:55:36,486 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.4.0/maven-archiver-3.4.0.jar
+2019-12-19 11:55:36,623 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.4.0/maven-archiver-3.4.0.jar
+2019-12-19 11:55:36,675 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.1.0/plexus-archiver-4.1.0.jar
+2019-12-19 11:55:36,795 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.1.0/plexus-archiver-4.1.0.jar
+2019-12-19 11:55:36,838 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.1.1/plexus-io-3.1.1.jar
+2019-12-19 11:55:36,899 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.1.1/plexus-io-3.1.1.jar
+2019-12-19 11:55:36,948 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.18/commons-compress-1.18.jar
+2019-12-19 11:55:37,112 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.18/commons-compress-1.18.jar
+2019-12-19 11:55:37,156 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/tukaani/xz/1.8/xz-1.8.jar
+2019-12-19 11:55:37,215 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/tukaani/xz/1.8/xz-1.8.jar
+2019-12-19 11:55:38,016 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/eirslett/frontend-plugin-core/1.6/frontend-plugin-core-1.6.pom
+2019-12-19 11:55:38,060 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/eirslett/frontend-plugin-core/1.6/frontend-plugin-core-1.6.pom
+2019-12-19 11:55:38,208 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.5/commons-compress-1.5.pom
+2019-12-19 11:55:38,252 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.5/commons-compress-1.5.pom
+2019-12-19 11:55:38,311 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/tukaani/xz/1.2/xz-1.2.pom
+2019-12-19 11:55:38,355 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/tukaani/xz/1.2/xz-1.2.pom
+2019-12-19 11:55:38,453 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.1/httpclient-4.5.1.pom
+2019-12-19 11:55:38,498 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.1/httpclient-4.5.1.pom
+2019-12-19 11:55:38,543 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.5.1/httpcomponents-client-4.5.1.pom
+2019-12-19 11:55:38,590 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.5.1/httpcomponents-client-4.5.1.pom
+2019-12-19 11:55:38,645 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.3/httpcore-4.4.3.pom
+2019-12-19 11:55:38,690 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.3/httpcore-4.4.3.pom
+2019-12-19 11:55:38,736 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.4.3/httpcomponents-core-4.4.3.pom
+2019-12-19 11:55:38,783 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.4.3/httpcomponents-core-4.4.3.pom
+2019-12-19 11:55:38,885 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.1.0/maven-plugin-api-3.1.0.pom
+2019-12-19 11:55:38,928 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.1.0/maven-plugin-api-3.1.0.pom
+2019-12-19 11:55:38,973 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven/3.1.0/maven-3.1.0.pom
+2019-12-19 11:55:39,021 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven/3.1.0/maven-3.1.0.pom
+2019-12-19 11:55:39,067 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.1.0/maven-model-3.1.0.pom
+2019-12-19 11:55:39,113 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.1.0/maven-model-3.1.0.pom
+2019-12-19 11:55:39,178 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.1.0/maven-artifact-3.1.0.pom
+2019-12-19 11:55:39,223 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.1.0/maven-artifact-3.1.0.pom
+2019-12-19 11:55:39,270 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.plexus/0.0.0.M2a/org.eclipse.sisu.plexus-0.0.0.M2a.pom
+2019-12-19 11:55:39,315 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.plexus/0.0.0.M2a/org.eclipse.sisu.plexus-0.0.0.M2a.pom
+2019-12-19 11:55:39,361 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/sisu/sisu-plexus/0.0.0.M2a/sisu-plexus-0.0.0.M2a.pom
+2019-12-19 11:55:39,409 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/sisu/sisu-plexus/0.0.0.M2a/sisu-plexus-0.0.0.M2a.pom
+2019-12-19 11:55:39,529 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/10.0.1/guava-10.0.1.pom
+2019-12-19 11:55:39,576 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/10.0.1/guava-10.0.1.pom
+2019-12-19 11:55:39,622 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/10.0.1/guava-parent-10.0.1.pom
+2019-12-19 11:55:39,667 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/10.0.1/guava-parent-10.0.1.pom
+2019-12-19 11:55:39,758 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.inject/0.0.0.M2a/org.eclipse.sisu.inject-0.0.0.M2a.pom
+2019-12-19 11:55:39,808 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.inject/0.0.0.M2a/org.eclipse.sisu.inject-0.0.0.M2a.pom
+2019-12-19 11:55:39,859 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/sisu/sisu-inject/0.0.0.M2a/sisu-inject-0.0.0.M2a.pom
+2019-12-19 11:55:39,904 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/sisu/sisu-inject/0.0.0.M2a/sisu-inject-0.0.0.M2a.pom
+2019-12-19 11:55:40,014 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.2/maven-plugin-annotations-3.2.pom
+2019-12-19 11:55:40,058 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.2/maven-plugin-annotations-3.2.pom
+2019-12-19 11:55:40,106 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.2/maven-plugin-tools-3.2.pom
+2019-12-19 11:55:40,153 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.2/maven-plugin-tools-3.2.pom
+2019-12-19 11:55:40,262 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/eirslett/frontend-plugin-core/1.6/frontend-plugin-core-1.6.jar
+2019-12-19 11:55:40,314 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/eirslett/frontend-plugin-core/1.6/frontend-plugin-core-1.6.jar
+2019-12-19 11:55:40,423 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.5/commons-compress-1.5.jar
+2019-12-19 11:55:40,544 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.5/commons-compress-1.5.jar
+2019-12-19 11:55:40,582 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/tukaani/xz/1.2/xz-1.2.jar
+2019-12-19 11:55:40,634 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/tukaani/xz/1.2/xz-1.2.jar
+2019-12-19 11:55:40,672 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.1/httpclient-4.5.1.jar
+2019-12-19 11:55:40,882 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.1/httpclient-4.5.1.jar
+2019-12-19 11:55:40,921 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.3/httpcore-4.4.3.jar
+2019-12-19 11:55:41,017 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.3/httpcore-4.4.3.jar
+2019-12-19 11:55:41,052 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.1.0/maven-plugin-api-3.1.0.jar
+2019-12-19 11:55:41,201 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.1.0/maven-plugin-api-3.1.0.jar
+2019-12-19 11:55:41,238 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.1.0/maven-model-3.1.0.jar
+2019-12-19 11:55:41,296 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.1.0/maven-model-3.1.0.jar
+2019-12-19 11:55:41,332 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.1.0/maven-artifact-3.1.0.jar
+2019-12-19 11:55:41,381 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.1.0/maven-artifact-3.1.0.jar
+2019-12-19 11:55:41,418 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.plexus/0.0.0.M2a/org.eclipse.sisu.plexus-0.0.0.M2a.jar
+2019-12-19 11:55:41,501 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.plexus/0.0.0.M2a/org.eclipse.sisu.plexus-0.0.0.M2a.jar
+2019-12-19 11:55:41,540 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/10.0.1/guava-10.0.1.jar
+2019-12-19 11:55:41,873 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/10.0.1/guava-10.0.1.jar
+2019-12-19 11:55:41,911 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.inject/0.0.0.M2a/org.eclipse.sisu.inject-0.0.0.M2a.jar
+2019-12-19 11:55:42,009 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.inject/0.0.0.M2a/org.eclipse.sisu.inject-0.0.0.M2a.jar
+2019-12-19 11:55:42,046 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.4/plexus-classworlds-2.4.jar
+2019-12-19 11:55:42,223 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.4/plexus-classworlds-2.4.jar
+2019-12-19 11:55:42,259 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.2/maven-plugin-annotations-3.2.jar
+2019-12-19 11:55:42,347 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.2/maven-plugin-annotations-3.2.jar
+2019-12-19 11:55:43,677 [Worker-11] INFO  c.g.e.m.p.f.lib.NodeInstaller - Installing node version v8.4.0
+2019-12-19 11:55:43,677 [Worker-11] INFO  c.g.e.m.p.f.lib.NodeInstaller - Downloading https://nodejs.org/dist/v8.4.0/win-x64/node.exe to C:\Users\beqir\.m2\repository\com\github\eirslett\node\8.4.0\node-8.4.0-win-x64.exe
+2019-12-19 11:55:43,679 [Worker-11] INFO  c.g.e.m.p.frontend.lib.ProxyConfig - No proxies configured
+2019-12-19 11:55:43,679 [Worker-11] INFO  c.g.e.m.p.f.lib.FileDownloader - No proxy was configured, downloading directly
+2019-12-19 11:55:47,824 [Worker-11] INFO  c.g.e.m.p.f.lib.NodeInstaller - Copying node binary from C:\Users\beqir\.m2\repository\com\github\eirslett\node\8.4.0\node-8.4.0-win-x64.exe to C:\Liferay\Liferay-maven-portlet\my-npm-angular-portlet\target\node\node.exe
+2019-12-19 11:55:47,990 [Worker-11] INFO  c.g.e.m.p.f.lib.NodeInstaller - Installed node locally.
+2019-12-19 11:55:47,992 [Worker-11] INFO  c.g.e.m.p.frontend.lib.NPMInstaller - Installing npm version 5.3.0
+2019-12-19 11:55:47,992 [Worker-11] INFO  c.g.e.m.p.frontend.lib.NPMInstaller - Downloading https://registry.npmjs.org/npm/-/npm-5.3.0.tgz to C:\Users\beqir\.m2\repository\com\github\eirslett\npm\5.3.0\npm-5.3.0.tar.gz
+2019-12-19 11:55:47,992 [Worker-11] INFO  c.g.e.m.p.frontend.lib.ProxyConfig - No proxies configured
+2019-12-19 11:55:47,992 [Worker-11] INFO  c.g.e.m.p.f.lib.FileDownloader - No proxy was configured, downloading directly
+2019-12-19 11:55:48,718 [Worker-11] INFO  c.g.e.m.p.frontend.lib.NPMInstaller - Unpacking C:\Users\beqir\.m2\repository\com\github\eirslett\npm\5.3.0\npm-5.3.0.tar.gz into C:\Liferay\Liferay-maven-portlet\my-npm-angular-portlet\target\node\node_modules
+2019-12-19 11:56:05,652 [Worker-11] INFO  c.g.e.m.p.frontend.lib.NPMInstaller - Installed npm locally.
+2019-12-19 11:56:05,814 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/liferay/com.liferay.sass.compiler.jni/2.0.9/com.liferay.sass.compiler.jni-2.0.9.pom
+2019-12-19 11:56:06,028 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/liferay/com.liferay.sass.compiler.jni/2.0.9/com.liferay.sass.compiler.jni-2.0.9.pom
+2019-12-19 11:56:06,178 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/liferay/com.liferay.sass.compiler.api/2.0.1/com.liferay.sass.compiler.api-2.0.1.pom
+2019-12-19 11:56:06,327 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/liferay/com.liferay.sass.compiler.api/2.0.1/com.liferay.sass.compiler.api-2.0.1.pom
+2019-12-19 11:56:06,474 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/liferay/com.liferay.sass.compiler.ruby/2.0.6/com.liferay.sass.compiler.ruby-2.0.6.pom
+2019-12-19 11:56:06,624 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/liferay/com.liferay.sass.compiler.ruby/2.0.6/com.liferay.sass.compiler.ruby-2.0.6.pom
+2019-12-19 11:56:06,671 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jruby/jruby-complete/9.2.7.0/jruby-complete-9.2.7.0.pom
+2019-12-19 11:56:06,717 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jruby/jruby-complete/9.2.7.0/jruby-complete-9.2.7.0.pom
+2019-12-19 11:56:06,765 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jruby/jruby-artifacts/9.2.7.0/jruby-artifacts-9.2.7.0.pom
+2019-12-19 11:56:06,994 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jruby/jruby-artifacts/9.2.7.0/jruby-artifacts-9.2.7.0.pom
+2019-12-19 11:56:07,063 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jruby/jruby-parent/9.2.7.0/jruby-parent-9.2.7.0.pom
+2019-12-19 11:56:07,129 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jruby/jruby-parent/9.2.7.0/jruby-parent-9.2.7.0.pom
+2019-12-19 11:56:08,891 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/liferay/com.liferay.sass.compiler.jni/2.0.9/com.liferay.sass.compiler.jni-2.0.9.jar
+2019-12-19 11:56:10,665 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/liferay/com.liferay.sass.compiler.jni/2.0.9/com.liferay.sass.compiler.jni-2.0.9.jar
+2019-12-19 11:56:10,802 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/liferay/com.liferay.sass.compiler.api/2.0.1/com.liferay.sass.compiler.api-2.0.1.jar
+2019-12-19 11:56:10,968 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/liferay/com.liferay.sass.compiler.api/2.0.1/com.liferay.sass.compiler.api-2.0.1.jar
+2019-12-19 11:56:11,005 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/liferay/com.liferay.sass.compiler.ruby/2.0.6/com.liferay.sass.compiler.ruby-2.0.6.jar
+2019-12-19 11:56:11,531 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/liferay/com.liferay.sass.compiler.ruby/2.0.6/com.liferay.sass.compiler.ruby-2.0.6.jar
+2019-12-19 11:56:11,572 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jruby/jruby-complete/9.2.7.0/jruby-complete-9.2.7.0.jar
+2019-12-19 11:56:18,810 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jruby/jruby-complete/9.2.7.0/jruby-complete-9.2.7.0.jar
+2019-12-19 11:56:19,075 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/liferay/com.liferay.frontend.css.common/3.0.1/com.liferay.frontend.css.common-3.0.1.jar
+2019-12-19 11:56:19,468 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/liferay/com.liferay.frontend.css.common/3.0.1/com.liferay.frontend.css.common-3.0.1.jar
+2019-12-19 11:56:19,776 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/biz/aQute/bnd/biz.aQute.bndlib/4.3.0/biz.aQute.bndlib-4.3.0.pom
+2019-12-19 11:56:19,932 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/biz/aQute/bnd/biz.aQute.bndlib/4.3.0/biz.aQute.bndlib-4.3.0.pom
+2019-12-19 11:56:20,099 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/liferay/com.liferay.ant.bnd/3.2.3/com.liferay.ant.bnd-3.2.3.pom
+2019-12-19 11:56:20,247 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/liferay/com.liferay.ant.bnd/3.2.3/com.liferay.ant.bnd-3.2.3.pom
+2019-12-19 11:56:20,520 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/biz/aQute/bnd/biz.aQute.bnd/4.3.0/biz.aQute.bnd-4.3.0.pom
+2019-12-19 11:56:20,671 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/biz/aQute/bnd/biz.aQute.bnd/4.3.0/biz.aQute.bnd-4.3.0.pom
+2019-12-19 11:56:20,715 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-mapping/3.0.0/maven-mapping-3.0.0.pom
+2019-12-19 11:56:20,762 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-mapping/3.0.0/maven-mapping-3.0.0.pom
+2019-12-19 11:56:21,055 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/biz/aQute/bnd/biz.aQute.bnd.maven/4.3.0/biz.aQute.bnd.maven-4.3.0.pom
+2019-12-19 11:56:21,207 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/biz/aQute/bnd/biz.aQute.bnd.maven/4.3.0/biz.aQute.bnd.maven-4.3.0.pom
+2019-12-19 11:56:21,358 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/biz/aQute/bnd/biz.aQute.resolve/4.3.0/biz.aQute.resolve-4.3.0.pom
+2019-12-19 11:56:21,508 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/biz/aQute/bnd/biz.aQute.resolve/4.3.0/biz.aQute.resolve-4.3.0.pom
+2019-12-19 11:56:21,657 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/biz/aQute/bnd/biz.aQute.repository/4.3.0/biz.aQute.repository-4.3.0.pom
+2019-12-19 11:56:21,806 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/biz/aQute/bnd/biz.aQute.repository/4.3.0/biz.aQute.repository-4.3.0.pom
+2019-12-19 11:56:22,726 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/biz/aQute/bnd/biz.aQute.bndlib/4.3.0/biz.aQute.bndlib-4.3.0.jar
+2019-12-19 11:56:23,712 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/biz/aQute/bnd/biz.aQute.bndlib/4.3.0/biz.aQute.bndlib-4.3.0.jar
+2019-12-19 11:56:23,853 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/liferay/com.liferay.ant.bnd/3.2.3/com.liferay.ant.bnd-3.2.3.jar
+2019-12-19 11:56:24,003 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/liferay/com.liferay.ant.bnd/3.2.3/com.liferay.ant.bnd-3.2.3.jar
+2019-12-19 11:56:24,511 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/biz/aQute/bnd/biz.aQute.bnd/4.3.0/biz.aQute.bnd-4.3.0.jar
+2019-12-19 11:56:27,666 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/biz/aQute/bnd/biz.aQute.bnd/4.3.0/biz.aQute.bnd-4.3.0.jar
+2019-12-19 11:56:27,701 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-mapping/3.0.0/maven-mapping-3.0.0.jar
+2019-12-19 11:56:27,778 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-mapping/3.0.0/maven-mapping-3.0.0.jar
+2019-12-19 11:56:27,812 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.8/plexus-utils-1.5.8.jar
+2019-12-19 11:56:27,926 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.8/plexus-utils-1.5.8.jar
+2019-12-19 11:56:28,075 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/biz/aQute/bnd/biz.aQute.bnd.maven/4.3.0/biz.aQute.bnd.maven-4.3.0.jar
+2019-12-19 11:56:28,233 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/biz/aQute/bnd/biz.aQute.bnd.maven/4.3.0/biz.aQute.bnd.maven-4.3.0.jar
+2019-12-19 11:56:28,271 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/biz/aQute/bnd/biz.aQute.resolve/4.3.0/biz.aQute.resolve-4.3.0.jar
+2019-12-19 11:56:28,611 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/biz/aQute/bnd/biz.aQute.resolve/4.3.0/biz.aQute.resolve-4.3.0.jar
+2019-12-19 11:56:28,655 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/biz/aQute/bnd/biz.aQute.repository/4.3.0/biz.aQute.repository-4.3.0.jar
+2019-12-19 11:56:28,998 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/biz/aQute/bnd/biz.aQute.repository/4.3.0/biz.aQute.repository-4.3.0.jar
+2019-12-19 11:56:30,251 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-npm-angular-portlet/src/main/java
+2019-12-19 11:56:30,251 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /my-npm-angular-portlet/src/main/resources
+2019-12-19 11:56:30,258 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-npm-angular-portlet/src/test/java
+2019-12-19 11:56:31,578 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 67 sec
+2019-12-19 11:56:32,190 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Building jar: C:\Liferay\Liferay-maven-portlet\my-npm-angular-portlet\target\my-npm-angular-portlet-1.0.jar
+2019-12-19 11:56:33,908 [Worker-26] INFO  c.g.e.m.p.f.lib.NodeInstaller - Node v8.4.0 is already installed.
+2019-12-19 11:56:34,054 [Worker-26] INFO  c.g.e.m.p.frontend.lib.NPMInstaller - NPM 5.3.0 is already installed.
+2019-12-19 11:56:34,056 [Worker-26] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in C:\Liferay\Liferay-maven-portlet\my-npm-angular-portlet
+2019-12-19 11:56:36,368 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN deprecated @types/moment@2.13.0: This is a stub types definition for Moment (https://github.com/moment/moment). Moment provides its own type definitions, so you don't need @types/moment installed!
+2019-12-19 11:56:36,397 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN deprecated rollup-plugin-node-resolve@3.0.0: This package has been deprecated and is no longer maintained. Please use @rollup/plugin-node-resolve.
+2019-12-19 11:56:36,876 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN deprecated @angular/http@5.2.11: Switch to @angular/common/http - see https://angular.io/guide/http
+2019-12-19 11:56:37,174 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN deprecated core-js@2.6.11: core-js@<3 is no longer maintained and not recommended for usage due to the number of issues. Please, upgrade your dependencies to the actual version of core-js@3.
+2019-12-19 11:56:37,840 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN deprecated extract-text-webpack-plugin@3.0.2: Deprecated. Please use https://github.com/webpack-contrib/mini-css-extract-plugin
+2019-12-19 11:56:38,350 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN deprecated gulp-util@3.0.8: gulp-util is deprecated - replace it, following the guidelines at https://medium.com/gulpjs/gulp-util-ca3b1f9f9ac5
+2019-12-19 11:56:38,818 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN deprecated istanbul@0.4.5: This module is no longer maintained, try this instead:
+2019-12-19 11:56:38,828 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN deprecated   npm i nyc
+2019-12-19 11:56:38,840 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN deprecated Visit https://istanbul.js.org/integrations for other alternatives.
+2019-12-19 11:56:41,666 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN deprecated browserslist@2.11.3: Browserslist 2 could fail on reading Browserslist >3.0 config used in other tools.
+2019-12-19 11:56:44,856 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN deprecated gulp-util@3.0.7: gulp-util is deprecated - replace it, following the guidelines at https://medium.com/gulpjs/gulp-util-ca3b1f9f9ac5
+2019-12-19 11:56:45,019 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN deprecated istanbul@0.4.3: This module is no longer maintained, try this instead:
+2019-12-19 11:56:45,031 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN deprecated   npm i nyc
+2019-12-19 11:56:45,040 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN deprecated Visit https://istanbul.js.org/integrations for other alternatives.
+2019-12-19 11:56:45,906 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN deprecated opn@6.0.0: The package has been renamed to `open`
+2019-12-19 11:56:46,635 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN deprecated hawk@3.1.3: This module moved to @hapi/hawk. Please make sure to switch over as this distribution is no longer supported and may contain bugs and critical security issues.
+2019-12-19 11:56:47,764 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN deprecated minimatch@2.0.10: Please update to minimatch 3.0.2 or higher to avoid a RegExp DoS issue
+2019-12-19 11:56:47,806 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN deprecated natives@1.1.6: This module relies on Node.js's internals and will break at some point. Do not use it, and update to graceful-fs@4.x.
+2019-12-19 11:56:47,934 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN deprecated json3@3.3.2: Please use the native JSON object instead of JSON 3
+2019-12-19 11:56:49,312 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN deprecated hoek@2.16.3: This version has been deprecated in accordance with the hapi support policy (hapi.im/support). Please upgrade to the latest version to get the best features, bug fixes, and security patches. If you are unable to upgrade at this time, paid support is available for older versions (hapi.im/commercial).
+2019-12-19 11:56:49,332 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN deprecated boom@2.10.1: This version has been deprecated in accordance with the hapi support policy (hapi.im/support). Please upgrade to the latest version to get the best features, bug fixes, and security patches. If you are unable to upgrade at this time, paid support is available for older versions (hapi.im/commercial).
+2019-12-19 11:56:49,347 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN deprecated cryptiles@2.0.5: This version has been deprecated in accordance with the hapi support policy (hapi.im/support). Please upgrade to the latest version to get the best features, bug fixes, and security patches. If you are unable to upgrade at this time, paid support is available for older versions (hapi.im/commercial).
+2019-12-19 11:56:49,355 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN deprecated sntp@1.0.9: This module moved to @hapi/sntp. Please make sure to switch over as this distribution is no longer supported and may contain bugs and critical security issues.
+2019-12-19 11:56:51,000 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN deprecated minimatch@0.2.14: Please update to minimatch 3.0.2 or higher to avoid a RegExp DoS issue
+2019-12-19 11:56:51,320 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN deprecated graceful-fs@1.2.3: please upgrade to graceful-fs 4 for compatibility with current and future versions of Node.js
+2019-12-19 11:57:06,056 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - WARN notice [SECURITY] webpack-dev-server has the following vulnerability: 1 high. Go here for more details: https://www.npmjs.com/advisories?search=webpack-dev-server&version=2.11.5 - Run `npm i npm@latest -g` to upgrade your npm version, and then `npm audit` to get more info.
+2019-12-19 11:58:15,352 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2019-12-19 11:58:15,352 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > node-sass@4.13.0 install C:\Liferay\Liferay-maven-portlet\my-npm-angular-portlet\node_modules\node-sass
+2019-12-19 11:58:15,353 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > node scripts/install.js
+2019-12-19 11:58:15,353 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2019-12-19 11:58:16,056 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Downloading binary from https://github.com/sass/node-sass/releases/download/v4.13.0/win32-x64-57_binding.node
+2019-12-19 11:58:18,056 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Download complete
+2019-12-19 11:58:18,061 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Binary saved to C:\Liferay\Liferay-maven-portlet\my-npm-angular-portlet\node_modules\node-sass\vendor\win32-x64-57\binding.node
+2019-12-19 11:58:18,061 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Caching binary to C:\Users\beqir\AppData\Roaming\npm-cache\node-sass\4.13.0\win32-x64-57_binding.node
+2019-12-19 11:58:18,215 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2019-12-19 11:58:18,215 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > core-js@2.6.11 postinstall C:\Liferay\Liferay-maven-portlet\my-npm-angular-portlet\node_modules\core-js
+2019-12-19 11:58:18,215 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > node -e "try{require('./postinstall')}catch(e){}"
+2019-12-19 11:58:18,215 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2019-12-19 11:58:18,688 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - [96mThank you for using core-js ([94m https://github.com/zloirock/core-js [96m) for polyfilling JavaScript standard library![0m
+2019-12-19 11:58:18,689 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2019-12-19 11:58:18,689 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - [96mThe project needs your help! Please consider supporting of core-js on Open Collective or Patreon: [0m
+2019-12-19 11:58:18,689 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - [96m>[94m https://opencollective.com/core-js [0m
+2019-12-19 11:58:18,689 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - [96m>[94m https://www.patreon.com/zloirock [0m
+2019-12-19 11:58:18,689 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2019-12-19 11:58:18,689 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - [96mAlso, the author of core-js ([94m https://github.com/zloirock [96m) is looking for a good job -)[0m
+2019-12-19 11:58:18,689 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2019-12-19 11:58:18,702 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2019-12-19 11:58:18,702 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > ejs@2.7.4 postinstall C:\Liferay\Liferay-maven-portlet\my-npm-angular-portlet\node_modules\ejs
+2019-12-19 11:58:18,702 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > node ./postinstall.js
+2019-12-19 11:58:18,702 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2019-12-19 11:58:19,169 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Thank you for installing [35mEJS[0m: built with the [32mJake[0m JavaScript build tool ([32mhttps://jakejs.com/[0m)
+2019-12-19 11:58:19,169 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2019-12-19 11:58:19,289 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2019-12-19 11:58:19,289 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > uglifyjs-webpack-plugin@0.4.6 postinstall C:\Liferay\Liferay-maven-portlet\my-npm-angular-portlet\node_modules\@angular\cli\node_modules\webpack\node_modules\uglifyjs-webpack-plugin
+2019-12-19 11:58:19,289 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > node lib/post_install.js
+2019-12-19 11:58:19,289 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2019-12-19 11:58:19,771 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2019-12-19 11:58:19,771 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > node-sass@4.13.0 postinstall C:\Liferay\Liferay-maven-portlet\my-npm-angular-portlet\node_modules\node-sass
+2019-12-19 11:58:19,771 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > node scripts/build.js
+2019-12-19 11:58:19,771 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2019-12-19 11:58:20,275 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Binary found at C:\Liferay\Liferay-maven-portlet\my-npm-angular-portlet\node_modules\node-sass\vendor\win32-x64-57\binding.node
+2019-12-19 11:58:20,276 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Testing binary
+2019-12-19 11:58:20,341 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Binary is fine
+2019-12-19 11:58:21,667 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - npm notice created a lockfile as package-lock.json. You should commit this file.
+2019-12-19 11:58:21,669 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - added 1725 packages in 106.623s
+2019-12-19 11:58:21,673 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN codelyzer@3.1.2 requires a peer of @angular/compiler@^2.3.1 || >=4.0.0-beta <5.0.0 but none was installed.
+2019-12-19 11:58:21,679 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN codelyzer@3.1.2 requires a peer of @angular/core@^2.3.1 || >=4.0.0-beta <5.0.0 but none was installed.
+2019-12-19 11:58:21,684 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN extract-text-webpack-plugin@3.0.2 requires a peer of webpack@^3.1.0 but none was installed.
+2019-12-19 11:58:21,690 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN my-npm-angular-portlet@1.0.0 No description
+2019-12-19 11:58:21,696 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN my-npm-angular-portlet@1.0.0 No repository field.
+2019-12-19 11:58:21,702 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN my-npm-angular-portlet@1.0.0 No license field.
+2019-12-19 11:58:21,707 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.11 (node_modules\fsevents):
+2019-12-19 11:58:21,713 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.11: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2019-12-19 11:58:21,719 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2019-12-19 11:58:21,727 [Worker-26] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in C:\Liferay\Liferay-maven-portlet\my-npm-angular-portlet
+2019-12-19 11:58:22,391 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2019-12-19 11:58:22,391 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > my-npm-angular-portlet@1.0.0 build C:\Liferay\Liferay-maven-portlet\my-npm-angular-portlet
+2019-12-19 11:58:22,391 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > tsc && liferay-npm-bundler
+2019-12-19 11:58:22,391 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2019-12-19 11:58:25,210 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Bundling 18 dependencies...
+2019-12-19 11:59:48,481 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - [BABEL] Note: The code generator has deoptimised the styling of "C:/Liferay/Liferay-maven-portlet/my-npm-angular-portlet/target/classes/META-INF/resources/node_modules/@angular%2Fcore@5.2.11/bundles/core.umd.js" as it exceeds the max of "500KB".
+2019-12-19 11:59:50,918 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - [BABEL] Note: The code generator has deoptimised the styling of "C:/Liferay/Liferay-maven-portlet/my-npm-angular-portlet/target/classes/META-INF/resources/node_modules/@angular%2Fcore@5.2.11/esm2015/core.js" as it exceeds the max of "500KB".
+2019-12-19 11:59:52,134 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - [BABEL] Note: The code generator has deoptimised the styling of "C:/Liferay/Liferay-maven-portlet/my-npm-angular-portlet/target/classes/META-INF/resources/node_modules/@angular%2Fcore@5.2.11/esm5/core.js" as it exceeds the max of "500KB".
+2019-12-19 12:00:12,995 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - [BABEL] Note: The code generator has deoptimised the styling of "C:/Liferay/Liferay-maven-portlet/my-npm-angular-portlet/target/classes/META-INF/resources/node_modules/rxjs@5.5.12/bundles/Rx.js" as it exceeds the max of "500KB".
+2019-12-19 12:00:31,417 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - [BABEL] Note: The code generator has deoptimised the styling of "C:/Liferay/Liferay-maven-portlet/my-npm-angular-portlet/target/classes/META-INF/resources/node_modules/@angular%2Fcompiler@5.2.11/bundles/compiler.umd.min.js" as it exceeds the max of "500KB".
+2019-12-19 12:00:34,351 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - [BABEL] Note: The code generator has deoptimised the styling of "C:/Liferay/Liferay-maven-portlet/my-npm-angular-portlet/target/classes/META-INF/resources/node_modules/@angular%2Fcompiler@5.2.11/esm2015/compiler.js" as it exceeds the max of "500KB".
+2019-12-19 12:00:37,919 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - [BABEL] Note: The code generator has deoptimised the styling of "C:/Liferay/Liferay-maven-portlet/my-npm-angular-portlet/target/classes/META-INF/resources/node_modules/@angular%2Fcompiler@5.2.11/bundles/compiler.umd.js" as it exceeds the max of "500KB".
+2019-12-19 12:00:41,515 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - [BABEL] Note: The code generator has deoptimised the styling of "C:/Liferay/Liferay-maven-portlet/my-npm-angular-portlet/target/classes/META-INF/resources/node_modules/@angular%2Fcompiler@5.2.11/esm5/compiler.js" as it exceeds the max of "500KB".
+2019-12-19 12:00:45,635 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Babel failed processing domino@1.0.30/lib/sloppy.js: it will be copied verbatim (see report file for more info)
+2019-12-19 12:01:07,200 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Babel failed processing domino@1.0.30/tools/bump-version.js: it will be copied verbatim (see report file for more info)
+2019-12-19 12:01:22,674 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Bundling took 3m
+2019-12-19 12:01:26,662 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-19 12:01:26,667 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2019-12-19 12:01:28,263 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-19 12:01:28,263 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\Liferay-maven-portlet\my-npm-angular-portlet\src\test\resources
+2019-12-19 12:01:29,135 [Worker-30] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-19 12:01:32,762 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.liferay:my-npm-angular-portlet:1.0 @ C:\Liferay\Liferay-maven-portlet\my-npm-angular-portlet\pom.xml.
+2019-12-19 12:01:33,731 [Worker-30] INFO  c.g.e.m.p.f.lib.NodeInstaller - Node v8.4.0 is already installed.
+2019-12-19 12:01:33,872 [Worker-30] INFO  c.g.e.m.p.frontend.lib.NPMInstaller - NPM 5.3.0 is already installed.
+2019-12-19 12:01:36,037 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-npm-angular-portlet/src/main/java
+2019-12-19 12:01:36,038 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /my-npm-angular-portlet/src/main/resources
+2019-12-19 12:01:36,038 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-npm-angular-portlet/src/test/java
+2019-12-19 12:01:41,739 [Worker-30] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 12 sec
+2019-12-19 12:01:43,612 [Worker-26] INFO  c.g.e.m.p.f.lib.NodeInstaller - Node v8.4.0 is already installed.
+2019-12-19 12:01:43,616 [Worker-26] INFO  c.g.e.m.p.frontend.lib.NPMInstaller - NPM 5.3.0 is already installed.
+2019-12-19 12:01:43,619 [Worker-26] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in C:\Liferay\Liferay-maven-portlet\my-npm-angular-portlet
+2019-12-19 12:01:56,379 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN codelyzer@3.1.2 requires a peer of @angular/compiler@^2.3.1 || >=4.0.0-beta <5.0.0 but none was installed.
+2019-12-19 12:01:56,380 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - added 70 packages in 11.815s
+2019-12-19 12:01:56,384 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN codelyzer@3.1.2 requires a peer of @angular/core@^2.3.1 || >=4.0.0-beta <5.0.0 but none was installed.
+2019-12-19 12:01:56,391 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN extract-text-webpack-plugin@3.0.2 requires a peer of webpack@^3.1.0 but none was installed.
+2019-12-19 12:01:56,396 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN my-npm-angular-portlet@1.0.0 No description
+2019-12-19 12:01:56,402 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN my-npm-angular-portlet@1.0.0 No repository field.
+2019-12-19 12:01:56,407 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN my-npm-angular-portlet@1.0.0 No license field.
+2019-12-19 12:01:56,413 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.11 (node_modules\fsevents):
+2019-12-19 12:01:56,418 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.11: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2019-12-19 12:01:56,423 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2019-12-19 12:01:56,430 [Worker-26] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in C:\Liferay\Liferay-maven-portlet\my-npm-angular-portlet
+2019-12-19 12:01:57,107 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2019-12-19 12:01:57,107 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > my-npm-angular-portlet@1.0.0 build C:\Liferay\Liferay-maven-portlet\my-npm-angular-portlet
+2019-12-19 12:01:57,107 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > tsc && liferay-npm-bundler
+2019-12-19 12:01:57,107 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2019-12-19 12:01:59,995 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Bundling 18 dependencies...
+2019-12-19 12:03:27,072 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - [BABEL] Note: The code generator has deoptimised the styling of "C:/Liferay/Liferay-maven-portlet/my-npm-angular-portlet/target/classes/META-INF/resources/node_modules/@angular%2Fcore@5.2.11/bundles/core.umd.js" as it exceeds the max of "500KB".
+2019-12-19 12:03:28,378 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - [BABEL] Note: The code generator has deoptimised the styling of "C:/Liferay/Liferay-maven-portlet/my-npm-angular-portlet/target/classes/META-INF/resources/node_modules/@angular%2Fcore@5.2.11/esm2015/core.js" as it exceeds the max of "500KB".
+2019-12-19 12:03:30,842 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - [BABEL] Note: The code generator has deoptimised the styling of "C:/Liferay/Liferay-maven-portlet/my-npm-angular-portlet/target/classes/META-INF/resources/node_modules/@angular%2Fcore@5.2.11/esm5/core.js" as it exceeds the max of "500KB".
+2019-12-19 12:03:52,347 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - [BABEL] Note: The code generator has deoptimised the styling of "C:/Liferay/Liferay-maven-portlet/my-npm-angular-portlet/target/classes/META-INF/resources/node_modules/rxjs@5.5.12/bundles/Rx.js" as it exceeds the max of "500KB".
+2019-12-19 12:04:14,716 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - [BABEL] Note: The code generator has deoptimised the styling of "C:/Liferay/Liferay-maven-portlet/my-npm-angular-portlet/target/classes/META-INF/resources/node_modules/@angular%2Fcompiler@5.2.11/bundles/compiler.umd.js" as it exceeds the max of "500KB".
+2019-12-19 12:04:18,051 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - [BABEL] Note: The code generator has deoptimised the styling of "C:/Liferay/Liferay-maven-portlet/my-npm-angular-portlet/target/classes/META-INF/resources/node_modules/@angular%2Fcompiler@5.2.11/bundles/compiler.umd.min.js" as it exceeds the max of "500KB".
+2019-12-19 12:04:20,825 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - [BABEL] Note: The code generator has deoptimised the styling of "C:/Liferay/Liferay-maven-portlet/my-npm-angular-portlet/target/classes/META-INF/resources/node_modules/@angular%2Fcompiler@5.2.11/esm2015/compiler.js" as it exceeds the max of "500KB".
+2019-12-19 12:04:24,172 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - [BABEL] Note: The code generator has deoptimised the styling of "C:/Liferay/Liferay-maven-portlet/my-npm-angular-portlet/target/classes/META-INF/resources/node_modules/@angular%2Fcompiler@5.2.11/esm5/compiler.js" as it exceeds the max of "500KB".
+2019-12-19 12:04:29,074 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Babel failed processing domino@1.0.30/lib/sloppy.js: it will be copied verbatim (see report file for more info)
+2019-12-19 12:04:52,149 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Babel failed processing domino@1.0.30/tools/bump-version.js: it will be copied verbatim (see report file for more info)
+2019-12-19 12:05:06,953 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Bundling took 3m
+2019-12-19 12:05:10,981 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-19 12:05:10,982 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2019-12-19 12:05:12,199 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-19 12:05:12,199 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Liferay\Liferay-maven-portlet\my-npm-angular-portlet\src\test\resources
+2019-12-19 12:05:18,028 [Worker-30] INFO  c.g.e.m.p.f.lib.NodeInstaller - Node v8.4.0 is already installed.
+2019-12-19 12:05:18,031 [Worker-30] INFO  c.g.e.m.p.frontend.lib.NPMInstaller - NPM 5.3.0 is already installed.
+2019-12-19 12:05:18,032 [Worker-30] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in C:\Liferay\Liferay-maven-portlet\my-npm-angular-portlet
+2019-12-19 12:05:31,220 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN codelyzer@3.1.2 requires a peer of @angular/compiler@^2.3.1 || >=4.0.0-beta <5.0.0 but none was installed.
+2019-12-19 12:05:31,221 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - added 70 packages in 12.296s
+2019-12-19 12:05:31,226 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN codelyzer@3.1.2 requires a peer of @angular/core@^2.3.1 || >=4.0.0-beta <5.0.0 but none was installed.
+2019-12-19 12:05:31,232 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN extract-text-webpack-plugin@3.0.2 requires a peer of webpack@^3.1.0 but none was installed.
+2019-12-19 12:05:31,238 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN my-npm-angular-portlet@1.0.0 No description
+2019-12-19 12:05:31,243 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN my-npm-angular-portlet@1.0.0 No repository field.
+2019-12-19 12:05:31,250 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN my-npm-angular-portlet@1.0.0 No license field.
+2019-12-19 12:05:31,256 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.11 (node_modules\fsevents):
+2019-12-19 12:05:31,262 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.11: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2019-12-19 12:05:31,267 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2019-12-19 12:05:31,274 [Worker-30] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in C:\Liferay\Liferay-maven-portlet\my-npm-angular-portlet
+2019-12-19 12:05:31,960 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2019-12-19 12:05:31,960 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > my-npm-angular-portlet@1.0.0 build C:\Liferay\Liferay-maven-portlet\my-npm-angular-portlet
+2019-12-19 12:05:31,960 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > tsc && liferay-npm-bundler
+2019-12-19 12:05:31,960 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2019-12-19 12:05:35,091 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Bundling 18 dependencies...
+2019-12-19 12:06:59,086 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - [BABEL] Note: The code generator has deoptimised the styling of "C:/Liferay/Liferay-maven-portlet/my-npm-angular-portlet/target/classes/META-INF/resources/node_modules/@angular%2Fcore@5.2.11/bundles/core.umd.js" as it exceeds the max of "500KB".
+2019-12-19 12:07:01,859 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - [BABEL] Note: The code generator has deoptimised the styling of "C:/Liferay/Liferay-maven-portlet/my-npm-angular-portlet/target/classes/META-INF/resources/node_modules/@angular%2Fcore@5.2.11/esm2015/core.js" as it exceeds the max of "500KB".
+2019-12-19 12:07:03,121 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - [BABEL] Note: The code generator has deoptimised the styling of "C:/Liferay/Liferay-maven-portlet/my-npm-angular-portlet/target/classes/META-INF/resources/node_modules/@angular%2Fcore@5.2.11/esm5/core.js" as it exceeds the max of "500KB".
+2019-12-19 12:07:30,510 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-12-19 12:07:33,542 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.liferay:my-npm-angular-portlet:1.0 @ C:\Liferay\Liferay-maven-portlet\my-npm-angular-portlet\pom.xml.
+2019-12-19 12:07:45,910 [Worker-15] INFO  c.g.e.m.p.f.lib.NodeInstaller - Node v8.4.0 is already installed.
+2019-12-19 12:07:46,224 [Worker-15] INFO  c.g.e.m.p.frontend.lib.NPMInstaller - NPM 5.3.0 is already installed.
+2019-12-19 12:07:46,228 [Worker-15] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in C:\Liferay\Liferay-maven-portlet\my-npm-angular-portlet
+2019-12-19 12:08:06,943 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN codelyzer@3.1.2 requires a peer of @angular/compiler@^2.3.1 || >=4.0.0-beta <5.0.0 but none was installed.
+2019-12-19 12:08:06,945 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - added 70 packages in 19.221s
+2019-12-19 12:08:06,957 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN codelyzer@3.1.2 requires a peer of @angular/core@^2.3.1 || >=4.0.0-beta <5.0.0 but none was installed.
+2019-12-19 12:08:06,968 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN extract-text-webpack-plugin@3.0.2 requires a peer of webpack@^3.1.0 but none was installed.
+2019-12-19 12:08:06,977 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN my-npm-angular-portlet@1.0.0 No description
+2019-12-19 12:08:06,988 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN my-npm-angular-portlet@1.0.0 No repository field.
+2019-12-19 12:08:06,995 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN my-npm-angular-portlet@1.0.0 No license field.
+2019-12-19 12:08:07,004 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.11 (node_modules\fsevents):
+2019-12-19 12:08:07,015 [Exec Stream Pumper] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.11: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+2019-12-19 12:08:07,024 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2019-12-19 12:08:07,036 [Worker-15] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in C:\Liferay\Liferay-maven-portlet\my-npm-angular-portlet
+2019-12-19 12:08:07,900 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2019-12-19 12:08:07,900 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > my-npm-angular-portlet@1.0.0 build C:\Liferay\Liferay-maven-portlet\my-npm-angular-portlet
+2019-12-19 12:08:07,900 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > tsc && liferay-npm-bundler
+2019-12-19 12:08:07,900 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2019-12-19 12:08:11,432 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Bundling 18 dependencies...
+2019-12-19 12:09:40,894 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - [BABEL] Note: The code generator has deoptimised the styling of "C:/Liferay/Liferay-maven-portlet/my-npm-angular-portlet/target/classes/META-INF/resources/node_modules/@angular%2Fcore@5.2.11/bundles/core.umd.js" as it exceeds the max of "500KB".
+2019-12-19 12:09:42,307 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - [BABEL] Note: The code generator has deoptimised the styling of "C:/Liferay/Liferay-maven-portlet/my-npm-angular-portlet/target/classes/META-INF/resources/node_modules/@angular%2Fcore@5.2.11/esm2015/core.js" as it exceeds the max of "500KB".
+2019-12-19 12:09:43,907 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - [BABEL] Note: The code generator has deoptimised the styling of "C:/Liferay/Liferay-maven-portlet/my-npm-angular-portlet/target/classes/META-INF/resources/node_modules/@angular%2Fcore@5.2.11/esm5/core.js" as it exceeds the max of "500KB".
+2019-12-19 12:10:06,742 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - [BABEL] Note: The code generator has deoptimised the styling of "C:/Liferay/Liferay-maven-portlet/my-npm-angular-portlet/target/classes/META-INF/resources/node_modules/rxjs@5.5.12/bundles/Rx.js" as it exceeds the max of "500KB".
+2019-12-19 12:10:27,511 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - [BABEL] Note: The code generator has deoptimised the styling of "C:/Liferay/Liferay-maven-portlet/my-npm-angular-portlet/target/classes/META-INF/resources/node_modules/@angular%2Fcompiler@5.2.11/bundles/compiler.umd.min.js" as it exceeds the max of "500KB".
+2019-12-19 12:10:30,861 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - [BABEL] Note: The code generator has deoptimised the styling of "C:/Liferay/Liferay-maven-portlet/my-npm-angular-portlet/target/classes/META-INF/resources/node_modules/@angular%2Fcompiler@5.2.11/esm2015/compiler.js" as it exceeds the max of "500KB".
+2019-12-19 12:10:34,156 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - [BABEL] Note: The code generator has deoptimised the styling of "C:/Liferay/Liferay-maven-portlet/my-npm-angular-portlet/target/classes/META-INF/resources/node_modules/@angular%2Fcompiler@5.2.11/bundles/compiler.umd.js" as it exceeds the max of "500KB".
+2019-12-19 12:10:38,063 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultNpmRunner - [BABEL] Note: The code generator has deoptimised the styling of "C:/Liferay/Liferay-maven-portlet/my-npm-angular-portlet/target/classes/META-INF/resources/node_modules/@angular%2Fcompiler@5.2.11/esm5/compiler.js" as it exceeds the max of "500KB".
+2019-12-19 12:10:43,299 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Babel failed processing domino@1.0.30/lib/sloppy.js: it will be copied verbatim (see report file for more info)
+2019-12-19 12:11:05,556 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Babel failed processing domino@1.0.30/tools/bump-version.js: it will be copied verbatim (see report file for more info)
+2019-12-19 16:25:29,876 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-12-19 16:25:36,104 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.liferay:my-npm-angular-portlet:1.0 @ C:\Liferay\Liferay-maven-portlet\my-npm-angular-portlet\pom.xml.
+2019-12-19 16:26:37,097 [Worker-11] INFO  o.e.m.c.i.p.r.ProjectRegistryRefreshJob - org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob was canceled
